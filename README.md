@@ -18,7 +18,7 @@
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@D3krish/D3VILMusicPyrogramBot#main.py)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Imteyaz_king/ImteyazMusicPyrogramBot#main.py)
 
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
@@ -32,7 +32,7 @@ Get STRING_NAME from here:
 
   <summary> • CREDITS👀 • </summary>
 
-- [KRISH](https://github.com/D3KRISH): main developer
+- [KRISH](https://github.com/Imteyazking): main developer
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Shinchan](https://t.me/Shinchan7222)
