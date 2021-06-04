@@ -1,7 +1,7 @@
-# Imteyaz-Music-Bot
-<h1 align="centre">🎶 Imteyaz Vc Music ⚡  🎶</h1>
+# Tannu_Imteyaz-Bot
+<h1 align="centre">🎶 Tannu_Imteyaz_bot ⚡  🎶</h1>
 
-[![ImteyazVc_Bot LOGO](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://t.me/Imteyaz_info)
+[![Tannu_Imteyaz_Bot LOGO](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://t.me/Imteyaz_king)
 
 ## Requirements 📝
 
@@ -23,7 +23,9 @@ Get STRING_NAME from here:
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account.
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@D3krish/D3VILMusicPyrogramBot#main.py)
+   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@Imteyaz_king/ImteyazMusicPyrogramBot#main.py)
+
+- Some Of The Mandatory Vars Are :-)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
@@ -36,5 +38,5 @@ Get STRING_NAME from here:
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Shinchan](https://t.me/Shinchan7222)
-- [Mafia support](https://t.me/MafiaBot_Support)
+
 <\details>
