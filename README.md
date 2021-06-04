@@ -1,7 +1,7 @@
-# Tannu_Imteyaz-Bot
-<h1 align="centre">🎶 Tannu_Imteyaz_bot ⚡  🎶</h1>
+# Music_Lover
+<h1 align="centre">🎶 Tannu_Imteyaz_bot   🎶</h1>
 
-[![Tannu_Imteyaz_Bot LOGO](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://t.me/Imteyaz_king)
+[![Tannu_Imteyaz_Bot LOGO](https://telegra.ph/file/bc6fb64093caf59e9090c.jpg)](https://t.me/Imteyaz_king)
 
 ## Requirements 📝
 
