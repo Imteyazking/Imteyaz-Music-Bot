@@ -38,5 +38,6 @@ Get STRING_NAME from here:
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Shinchan](https://t.me/Shinchan7222)
+_ [mafia_bot](https://t.me/mafia_bot_support
 
 <\details>
