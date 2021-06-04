@@ -1,10 +1,10 @@
 {
-  "name": "ԃ3ʋιʅɱυʂιƈႦσƚ",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @D3_krish.",
+  "name": "Imteyaz_king",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @Imteyaz_king.",
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/D3KRISH/D3VILMUSICBOT",
   "repository": "https://github.com/D3KRISH/D3VILMUSICBOT",
-  "logo": "https://telegra.ph/file/e441ee749e930d4f99a6d.jpg",
+  "logo": "https://telegra.ph/file/2789f2d258544e04ed925.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
