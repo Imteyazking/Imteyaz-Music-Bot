@@ -3,7 +3,7 @@
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @Imteyaz_king.",
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
-  "repository": "https://github.com/Imteyazking/Imteyaz-Music-Bot#main",
+  "repository": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
   "logo": "https://telegra.ph/file/bc6fb64093caf59e9090c.jpg",
   "stack": "container",
   "env": {
