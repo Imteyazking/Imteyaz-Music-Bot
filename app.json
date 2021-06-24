@@ -18,7 +18,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": ""
+      "value": "KING_FIGHTER_MUSIC_BOT"
     },
     "API_ID": {
       "description": "App ID from http://my.telegram.org",
