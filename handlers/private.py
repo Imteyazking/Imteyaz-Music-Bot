@@ -7,25 +7,25 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgUAAxkBAAIZFWCquxoG_Ervt_4d61DnSF3YKLI9AALGAgAClA5RVUG4_pmGDtAXHwQ")
+    await message.reply_sticker("CAACAgUAAxkBAANtYNSn-I7nk-0lQBhveIbeiARhnXUAAnsFAAJxW5BWCWy-W5gXdSkfBA")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Imteyaz_king For Telegram voice chat's](https://t.me/Imteyaz_support).
+I can [play music](https://telegra.ph/file/5e25cfa7dfd7a628a9139.jpg) in your group's voice call. Developed by [Imteyaz_king For Telegram voice chat's](https://t.me/Imteyaz_support).
 
-Add me to your group and play music freely!**
+Add me and my assistant to your group and play music freely!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Imteyazking/D3VILMUSICBOT")
+                        "⚡ Add Music Bot in Your Group ⚡", url="t.me/KING_FIGHTER_MUSIC_BOT?startgroup=true")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
                     ),
                     InlineKeyboardButton(
-                        "♥️ INFORMATION", url="https://t.me/Imteyaz_info"
+                        "♥️ Music bot Assistant", url="t.me/KING_FIGHTER_MUSIC_ASSISTANT"
                     )
                 ],[ 
                     InlineKeyboardButton(
