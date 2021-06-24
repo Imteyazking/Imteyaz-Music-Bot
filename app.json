@@ -4,7 +4,7 @@
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
   "repository": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
-  "logo": "https://telegra.ph/file/bc6fb64093caf59e9090c.jpg",
+  "logo": "https://telegra.ph/file/64e22f517c9f1a8e60831.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
