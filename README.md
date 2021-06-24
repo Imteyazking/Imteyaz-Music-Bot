@@ -1,4 +1,4 @@
-# Music_Lover
+# super powerful bot 
 <h1 align="centre">🎶 KING FIGHTER MUSIC BOT   🎶</h1>
 
 [![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/bc6fb64093caf59e9090c.jpg)](https://t.me/Imteyaz_king)
