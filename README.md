@@ -1,7 +1,7 @@
 # Music_Lover
-<h1 align="centre">🎶 Tannu_Imteyaz_bot   🎶</h1>
+<h1 align="centre">🎶 KING FIGHTER MUSIC BOT   🎶</h1>
 
-[![Tannu_Imteyaz_Bot LOGO](https://telegra.ph/file/bc6fb64093caf59e9090c.jpg)](https://t.me/Imteyaz_king)
+[![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/bc6fb64093caf59e9090c.jpg)](https://t.me/Imteyaz_king)
 
 ## Requirements 📝
 
