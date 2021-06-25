@@ -35,9 +35,9 @@ Get STRING_NAME from here:
   <summary> • CREDITS👀 • </summary>
 
 - [Imteyaz](https://github.com/Imteyazking): main developer
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [D3KRISH](https://github.com/D3KRISH) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Shinchan](https://t.me/Shinchan7222)
-_ [mafia_bot](https://t.me/mafia_bot_support
+- [D3KRISH](https://t.me/D3_krish)
 
-<\details>
+
+</details>
