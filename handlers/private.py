@@ -22,14 +22,14 @@ Add me and my assistant to your group and play music freely!**
                         "⚡ Add Music Bot in Your Group ⚡", url="t.me/KING_FIGHTER_MUSIC_BOT?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"
+                        "💬 Group", url="https://t.me/King_fighter_Bot_support"
                     ),
                     InlineKeyboardButton(
                         "♥️ Music bot Assistant", url="t.me/KING_FIGHTER_MUSIC_ASSISTANT"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "𝙊𝙧𝙞𝙜𝙞𝙣𝙖𝙡 𝙘𝙧𝙚𝙖𝙩𝙤𝙧", url="https://t.me/Imteyaz_king"
+                        "Help", url="https://telegra.ph/KING-FIGHTER--VC-MUSIC-06-21-2"
                     )]
             ]
         ),
