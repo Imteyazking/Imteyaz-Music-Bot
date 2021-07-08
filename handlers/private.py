@@ -19,17 +19,17 @@ Add me and my assistant to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Add Music Bot in Your Group ⚡", url="t.me/KING_FIGHTER_MUSIC_BOT?startgroup=true")
+                        "⚡ Add Music Bot in Your Group ⚡", url="t.me/King_Vc_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/King_fighter_Bot_support"
+                        "💬 Group", url="https://t.me/King_fighter_support"
                     ),
                     InlineKeyboardButton(
-                        "♥️ Music bot Assistant", url="t.me/KING_FIGHTER_MUSIC_ASSISTANT"
+                        "♥️ Music bot Assistant", url="t.me/KinGVcplayer"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "Help", url="https://telegra.ph/KING-FIGHTER--VC-MUSIC-06-21-2"
+                        "Help", url="https://telegra.ph/KING-VC-BOT-07-08"
                     )]
             ]
         ),
