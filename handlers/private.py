@@ -29,7 +29,7 @@ Add me and my assistant to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "Help", url="https://telegra.ph/KING-VC-BOT-07-08"
+                        "Help", url="https://telegra.ph/Nisha-Music-08-30"
                     )]
             ]
         ),
