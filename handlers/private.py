@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can [play music](https://telegra.ph/file/5e25cfa7dfd7a628a9139.jpg) in your group's voice call. Developed by [Imteyaz_king For Telegram voice chat's](https://t.me/Imteyaz_support).
+I can [play music](https://telegra.ph/file/5e25cfa7dfd7a628a9139.jpg) in your group's voice call. Developed by [Miss_pagal_Alone For Telegram voice chat's](https://t.me/Nisha_Music_Support).
 
 Add me and my assistant to your group and play music freely!**
         """,
@@ -19,10 +19,10 @@ Add me and my assistant to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "⚡ Add Music Bot in Your Group ⚡", url="t.me/King_Vc_bot?startgroup=true")
+                        "💕 Add Music Bot in Your Group 💕", url="t.me/King_Vc_bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/King_fighter_support"
+                        "💬 Group", url="https://t.me/Nisha_Music_Support"
                     ),
                     InlineKeyboardButton(
                         "♥️ Music bot Assistant", url="t.me/KinGVcplayer"
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨𝑪𝒓𝒆𝒂𝒕𝒐𝒓✨", url="https://t.me/Imteyaz_king")
+                        "✨𝑪𝒓𝒆𝒂𝒕𝒐𝒓✨", url="https://t.me/Miss_pagal_Alone")
                 ]
             ]
         )
