@@ -19,13 +19,13 @@ Add me and my assistant to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "💕 Add Music Bot in Your Group 💕", url="t.me/King_Vc_bot?startgroup=true")
+                        "💕 Add Music Bot in Your Group 💕", url="http://t.me/Nisha_Music_Bot?startgroup=true")
                   ],[
                     InlineKeyboardButton(
                         "💬 Group", url="https://t.me/Nisha_Music_Support"
                     ),
                     InlineKeyboardButton(
-                        "♥️ Music bot Assistant", url="t.me/KinGVcplayer"
+                        "♥️ Music bot Assistant", url="t.me/Nisha_Music_Player"
                     )
                 ],[ 
                     InlineKeyboardButton(
