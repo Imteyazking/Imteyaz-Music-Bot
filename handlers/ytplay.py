@@ -61,8 +61,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="LOVE TALKS ⚔️ ",
-                        url=f"{https://t.me/love_talks_fam}")
+                        text="Nisha Music ❤️ ",
+                        url=f"{https://t.me/Nisha_Music_Support}")
                    
                 ]
             ]
@@ -72,8 +72,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="LOVE TALKS ⚔️",
-                        url=f"{https://t.me/love_talks_fam}")
+                        text="Nisha Music ❤️",
+                        url=f"{https://t.me/Nisha_Music_Support}")
                    
                 ]
             ]
