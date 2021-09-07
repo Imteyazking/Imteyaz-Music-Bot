@@ -1,7 +1,7 @@
 # super powerful bot 
-<h1 align="centre">🎶 KING FIGHTER MUSIC BOT   🎶</h1>
+<h1 align="centre">🎶 Nisha Music Bot   🎶</h1>
 
-[![KING FIGHTER MUSIC BOT LOGO](https://telegra.ph/file/5bbd6a7a578542ab1fb86.jpg)](https://t.me/Imteyaz_king)
+[![Nisha MUSIC BOT LOGO](https://telegra.ph/file/5bbd6a7a578542ab1fb86.jpg)](https://t.me/Imteyaz_king)
 
 ## Requirements 📝
 
