@@ -1,7 +1,7 @@
 # super powerful bot 
 <h1 align="centre">🎶 Nisha Music Bot   🎶</h1>
 
-[![Nisha MUSIC BOT LOGO](https://telegra.ph/file/5bbd6a7a578542ab1fb86.jpg)](https://t.me/Imteyaz_king)
+[![Nisha MUSIC BOT LOGO](https://telegra.ph/file/e147381d62a21ab9187fb.jpg)](https://t.me/Miss_pagal_Alone)
 
 ## Requirements 📝
 
