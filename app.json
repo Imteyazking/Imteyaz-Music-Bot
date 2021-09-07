@@ -1,10 +1,10 @@
 {
-  "name": "Imteyaz_king",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @Imteyaz_king.",
+  "name": "Nisha",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls made by @Miss_pagal_Alone.",
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
   "repository": "https://github.com/Imteyazking/Imteyaz-Music-Bot",
-  "logo": "https://telegra.ph/file/64e22f517c9f1a8e60831.jpg",
+  "logo": "https://telegra.ph/file/e147381d62a21ab9187fb.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -18,7 +18,7 @@
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
       "required": false,
-      "value": "KING_FIGHTER_MUSIC_BOT"
+      "value": "Nisha_Music_Bot"
     },
     "API_ID": {
       "description": "App ID from http://my.telegram.org",
