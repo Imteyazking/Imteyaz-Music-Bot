@@ -26,10 +26,10 @@ async def helper(ok, message: Message):
 /resume ▶️To continue The song
 
         💖💖💖💖♥️💝💖💖💗
-        🤍 @Imteyaz_king 🤍
+        🤍 @Miss_pagal_Alone🤍
         ♥️💖💖💖💖💖💖💗🤎""")
-Support group @love_talks_fam
+Support group @Nisha_Music_Support
 
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
-    await message.reply_text(f"**{bn} :-** Hey! [DM](http://t.me/ImTeYaZvC_bot?start=help_) me to get all the commands 😉")
+    await message.reply_text(f"**{bn} :-** Hey! http://t.me/Nisha_Music_Bot [DM](?start=help_) me to get all the commands 😉")
